@@ -348,10 +348,8 @@ Possible improvements for future versions include:
 ## Author
 
 **Ayush Raj**
-
-Build Your Own Project (BYOP)
-
-VIT Bhopal University
+**Registration Number - 25BAI11407**
+**VIT Bhopal University**
 
 Project: HostelSync
 
