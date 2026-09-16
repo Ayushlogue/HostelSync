@@ -348,7 +348,9 @@ Possible improvements for future versions include:
 ## Author
 
 **Ayush Raj**
+
 **Registration Number - 25BAI11407**
+
 **VIT Bhopal University**
 
 Project: HostelSync
