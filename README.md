@@ -321,6 +321,27 @@ The project demonstrates several Object-Oriented Programming concepts:
 - Collections
 - Separation of Responsibilities
 
+## Testing
+
+After compiling the project, run:
+
+java -cp target/classes com.hostelsync.Main
+
+Select '2. Demo' from the first menu to open the system with sample data.
+
+The following features can be tested from the main menu:
+
+- View Students
+- View Rooms
+- Submit Complaint
+- View Complaints
+- Check Fees
+- AI Complaint Analysis
+- View Dashboard
+- Update Complaint Status
+- Logout
+
+
 ## Project Objective
 
 The main objective of HostelSync is to create a simple and organized hostel management system that brings different hostel operations together in one application.
